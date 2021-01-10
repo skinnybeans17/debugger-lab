@@ -8,7 +8,15 @@ It's important that every software engineer is familiar with how to use a profes
 
 ## Getting Started
 
+First, **clone this repository** to your computer:
 
+```
+git clone git@github.com:Make-School-Labs/VSCode-Debugger-Lab.git
+```
+
+Then, open this folder in Visual Studio Code. You can either add it to an existing workspace with `File -> Add Folder to Workspace`, or create a new workspace.
+
+To run the debugger on a file, click on the "Run" tab on the far left-hand side of the window, then click the green "Start Debugging" arrow.
 
 ## Instructions
 
@@ -109,3 +117,7 @@ When looking over the in-scope variables, see if you can form a **hypothesis** o
 As you are working, **fill out the `debug_log.md` file** with an explanation of how you used the tools we've covered to find the bugs. You'll turn this in as part of your homework assignment.
 
 This one might take you a while! It requires some critical thinking as well as understanding someone else's code. If you're still stuck after working on the problem for a while, you can check out the `solutions.md` file which gives the answer.
+
+## Submission
+
+When you are finished with the lab, you will need to submit the `debug_log.md` file to Gradescope.
