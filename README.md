@@ -114,7 +114,7 @@ Now, **run the code** to see what it **actually** outputs. (It's always a good i
 
 When looking over the in-scope variables, see if you can form a **hypothesis** on what values those variables **should** hold, if the program were working correctly. Whenever your hypothesis doesn't match reality, **find the source of the discrepancy** and see if you can fix it.
 
-As you are working, **fill out the `debug_log.md` file** with an explanation of how you used the tools we've covered to find the bugs. You'll turn this in as part of your homework assignment.
+As you are working, **fill out the `debug-log.md` file** with an explanation of how you used the tools we've covered to find the bugs. You'll turn this in as your homework assignment.
 
 This one might take you a while! It requires some critical thinking as well as understanding someone else's code. If you're still stuck after working on the problem for a while, you can check out the `solutions.md` file which gives the answer.
 
