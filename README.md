@@ -62,7 +62,7 @@ Before moving on, let's review what we've learned:
 
 ### Exercise 3: Set a Watch Expression
 
-Open up `exercise-1.py` and give it a read. This program is a little longer, and it uses a histogram to calculate the number of occurrences of the most common words in a sentence.
+Open up `exercise-3.py` and give it a read. This program is a little longer, and it uses a histogram to calculate the number of occurrences of the most common words in a sentence.
 
 **Set a breakpoint** on line 16 (at the beginning of `find_most_common_word`) and step through the code until you get to line 22. You should see that the `sentence`, `list_of_words`, and `word_to_count` variables are now in scope.
 
